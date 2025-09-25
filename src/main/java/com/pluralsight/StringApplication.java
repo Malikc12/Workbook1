@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public class StringApplication {
     public static void main(String[] args) {
         String favoriteColor = "blue";

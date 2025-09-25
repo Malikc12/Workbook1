@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package com.pluralsight;
 
 public class MathApp {
     public static void main(String[] args) {
@@ -16,6 +16,6 @@ public class MathApp {
 
         System.out.println("The cheapest price the car at" + " "+ carPrice);
 
-        ??
+        //
     }
 }
